@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dC:/Users/User/Workspace/ELEC5566M-Resources/simulation
 vAdder1Bit
-Z1 !s110 1740971791
+Z1 !s110 1742316002
 !i10b 1
 !s100 Ad^L<IQ_NQYV_GP<GdQd00
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -26,7 +26,7 @@ Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1740971791.000000
+Z6 !s108 1742316002.000000
 !s107 C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest/Adder1Bit.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest|C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest/Adder1Bit.v|
 !i113 1
@@ -51,7 +51,7 @@ R5
 r1
 !s85 0
 31
-R6
+!s108 1742316001.000000
 !s107 C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest/Adder4Bit.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest|C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest/Adder4Bit.v|
 !i113 1
@@ -60,7 +60,7 @@ R8
 R9
 n@adder4@bit
 vAdder4Bit_tb
-!s110 1740971792
+R1
 !i10b 1
 !s100 ZjRO30o3bfAX3J5=Y;zMo2
 R2
@@ -76,7 +76,7 @@ R5
 r1
 !s85 0
 31
-!s108 1740971792.000000
+R6
 !s107 C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest/Adder4Bit_tb.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest|C:/Users/User/Workspace/ELEC5566M-Unit1-AyshaAlnuaimi/1-1-QuartusTest/Adder4Bit_tb.v|
 !i113 1
